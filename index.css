@@ -1,0 +1,89 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1em;
+	line-height: 1.7em;
+	font-family: Helvetica, Aria, sans-serif;
+}
+
+h2 {
+	font-size: 5.5em;
+	line-height: 1.25em;
+	margin: 30px auto .3em;
+	text-transform: uppercase;
+	letter-spacing: .05em;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+body > div {
+	text-align: center;
+	padding: 5% 0;
+}
+
+#header {
+	background-color: #59ade3;
+	color: #c9e9ff;
+}
+
+#header h2 {
+	color: #fff;
+}
+
+#about {
+	background-color: #fa5ba5;
+	color: #9e8b21;
+}
+
+#about h2 {
+	color: #fff;
+}
+
+#register {
+	background-color: #303030;
+	color: #cfcfcf	;
+}
+
+#register h2 {
+	color: #fff;
+}
+
+#categories {
+	background-color: #9eff36;
+	color: #6e8159;
+}
+
+#categories h2 {
+	color: #000;
+}
+
+#projects {
+	background-color: #d4f2ff;
+	color: #586c75;
+}
+
+#projects h2 {
+	color: #000;
+}
+
+#thanks {
+	background-color: #60e7ff;
+	color: #4a7b90;
+}
+
+#thanks h2 {
+	color: #000;
+}
+
+#spirits {
+	background-color: #fe5618;
+	color: #ffd2c2;
+}
+
+#spirits h2 {
+	color: #000;
+}
