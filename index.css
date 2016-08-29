@@ -11,7 +11,7 @@ body {
 	font-family: Helvetica, Aria, sans-serif;
 }
 
-h2 {
+h1 {
 	font-size: 5.5em;
 	line-height: 1.25em;
 	margin: 30px auto .3em;
@@ -19,6 +19,27 @@ h2 {
 	letter-spacing: .05em;
 	font-family: 'Josefin Sans', sans-serif;
 }
+
+
+h2 {
+	font-size: 4.5em;
+	line-height: 1.25em;
+	margin: 30px auto .3em;
+	text-transform: uppercase;
+	letter-spacing: .05em;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+h3 {
+	font-size: 3.5em;
+	font-style: italic;
+	line-height: 1.25em;
+	margin: 30px auto .3em;
+	text-transform: uppercase;
+	letter-spacing: .05em;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
 
 body > div {
 	text-align: center;
@@ -30,7 +51,7 @@ body > div {
 	color: #c9e9ff;
 }
 
-#header h2 {
+#header h1, h2 {
 	color: #fff;
 }
 
@@ -43,6 +64,15 @@ body > div {
 	color: #fff;
 }
 
+#about p {
+	color: #fff;
+	font-size: 1.5em;
+	line-height: 1em;
+	margin: 30px auto .3em;
+	letter-spacing: .05em;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
 #register {
 	background-color: #303030;
 	color: #cfcfcf	;
@@ -52,6 +82,15 @@ body > div {
 	color: #fff;
 }
 
+#register p {
+	color: #fff;
+	font-size: 1.5em;
+	line-height: 1em;
+	margin: 30px auto .3em;
+	letter-spacing: .05em;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
 #categories {
 	background-color: #9eff36;
 	color: #6e8159;
@@ -59,6 +98,26 @@ body > div {
 
 #categories h2 {
 	color: #000;
+}
+
+#categories p {
+	color: #000;
+	font-size: 1.5em;
+	line-height: 1em;
+	margin: 30px auto .3em;
+	letter-spacing: .05em;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#categories span {
+	background-color: #fa5ba5;
+	color: #000;
+	font-size: 1.5em;
+	line-height: 1em;
+	margin: 30px auto .3em;
+	padding: 0 0.5em;
+	letter-spacing: .05em;
+	font-family: 'Josefin Sans', sans-serif;
 }
 
 #projects {
@@ -79,6 +138,15 @@ body > div {
 	color: #000;
 }
 
+#thanks p {
+	color: #000;
+	font-size: 1.5em;
+	line-height: 1em;
+	margin: 30px auto .3em;
+	letter-spacing: .05em;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
 #spirits {
 	background-color: #fe5618;
 	color: #ffd2c2;
@@ -86,4 +154,24 @@ body > div {
 
 #spirits h2 {
 	color: #000;
+}
+
+#spirits p {
+	color: #000;
+	font-size: 1.5em;
+	line-height: 1em;
+	margin: 30px auto .3em;
+	letter-spacing: .05em;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#spirits span {
+	background-color: #fa5ba5;
+	color: #000;
+	font-size: 1.5em;
+	line-height: 1em;
+	margin: 30px auto .3em;
+	padding: 0 0.5em;
+	letter-spacing: .05em;
+	font-family: 'Josefin Sans', sans-serif;
 }
