@@ -48,6 +48,10 @@ body > div {
 
 #header {
   background-color: #59ade3;
+  background-image: url("ba.png");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-attachment: fixed;
   color: #c9e9ff;
 }
 
