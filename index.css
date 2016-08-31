@@ -79,7 +79,7 @@ body > div {
 
 #register {
   background-color: #303030;
-  color: #cfcfcf  ;
+  color: #cfcfcf;
 }
 
 #register h2 {
@@ -93,6 +93,10 @@ body > div {
   margin: 30px auto .3em;
   letter-spacing: .05em;
   font-family: 'Josefin Sans', sans-serif;
+}
+
+#register a {
+  color: #cfcfcf;
 }
 
 #categories {
